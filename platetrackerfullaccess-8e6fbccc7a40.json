@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "platetrackerfullaccess",
+  "private_key_id": "8e6fbccc7a409741a1fc79c584b1a9bdeebd3778",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAXfk++M4M8b+4\nJGQgiNE6z2w8KB7vH2g5vuxAKuQGM+78U3NWJI2AVYc+0q0/4egG7jy4hDpSASLS\nwFUzGEj4l0p0GSFz8NU+iyRGK6Xfq8viwBpsg4k+J0Q2xefQZC3v4lXI4kfYSG3F\nwJfUhkhxW1Snr/7s/8iQLlGa9OM+hEWL/hlC6DChNjOY1DC2o5rz5MTceZ29b+HL\n/I9yc307tDjlSE+yoRFNS4T2BBZcp/w3jstouvwVwQfWJfnviC/mb8uctmIf7aVt\nf3gKCbF6h1V0izQVzRH5HjjFikkPbEnUnors/oa6dMN86Imhlw74YRlHxrZt1GAy\nm1gaH9WHAgMBAAECggEAHY0SIftaDqEAlmAjcDVfDE1wT27Lub41u6aPEm3EU7Oc\nre8qk6bP2fwe56a47fcH4YYC6/GG0rF7+6uHgG7lntKsTFjOoR9JEu+QZfsvOG9i\nxcrvBDvR/ytMY6xT/S5hOYL9MfvuP3/OOoe94JcJqpL2K+scb/n8gdxWYEXoYYzv\nUpxubAVeNqqyoPo9i9Eb1RjKRbKcz9+S2iY4428tiIGDOpkhW26UPq2ffmamgVvM\nsnH6yEgyUp9r/vgfSizH7v7jrW4Fq/K0+P0N766aCRnlhZUxkZ2taRGJh46pyaFR\nkFe/uUWezOgVxIpbtiwIuEHNQmEAANrcOmFMOJlToQKBgQDqekC1Fy2VgahpnFMw\nCrQIq8lwi5uW0kzhKx2toDK9aW0K2Ly6MsMKkgjuwcI5XOg7R3lISMbWh8eExgsL\nAcTMSSjNqD0Y7NO6ShpOfrSbDHBYoPuRriRN3HLbq1+Q2/5sPhCvaQPDDisSeMEi\ntMv7U+ZnJ/Kkj1j/VsYIGVTW8QKBgQDSBjXTXTm7L99UMgh1/HdmQJBzFGtm4TFt\nVNbWYzDDscnYBgJ18jFjJaMSqjA6JllwTt7jICYwwYYJVFV2O1M7caOVXJvbXDM6\n1CTh4vXXfIsGXdzFOqVBn01xbwYCgJmqHRXcgbdYNak1A4GsXRkVe5ye2Gljz19s\nJq4C1Pmj9wKBgD/QPcQLJtDFlLwJW2p7vzuM5SnIFPQbD+lH/q++JZD/HDoTemmC\nXyqFTAEOonlSG7HmZc+SXusL0PUFoQPB23ltf7lYzCf4bDcK69XpDeYUoI6+YTjo\nl+DI2kmGfl/CP5/d1FSo0+lF9dr1GjsD0W/5CX+Rk6vNh38WcpbJrhlBAoGAcFyu\nM1Ru7HxiKPNTn3vgjS4Bme/UvgfAn9OB1NTgY/IcIJymeF+ImJisM/IlNxcJRpKL\noEu04uTGRvt9dXGrx+O2NtSC9crQBas1yDvadtzErDVPRZ1oiEEn94YEWxZeH6rL\n5VrosiKTUi98ErEEGIA3fKwfRizNylivRAiZPmUCgYBqef5q2gMKNus7rI515AXB\nqT8TzDbroxhXxKPYPxwMFjlvQFOQLERBLDKz3CX3FVCoI9SdPQQUVyY30JEvQ4Ka\nYz+GzH/EDOwn+gsma2wOmBQa6nAaVgB4c2YFryzc3jGOcfgNgtGQjERu90KairOI\nk5nUMUi/wPm/GiBFGYEPAg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "platetrackerfullaccess@platetrackerfullaccess.iam.gserviceaccount.com",
+  "client_id": "106574112930057020429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/platetrackerfullaccess%40platetrackerfullaccess.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

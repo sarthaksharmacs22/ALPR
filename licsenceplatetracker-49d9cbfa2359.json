@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "licsenceplatetracker",
+  "private_key_id": "49d9cbfa23591e155cc8f7dcfbb60f41a43fded5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaKolNGGKN055J\nkuT1W2grnb0I0wBA6UY2NNBjYugS3YtMvJ0V0EDsNdqmMRulVHgptziNI9gIXl0Y\n+E5mTpuF8gBsQhU6HtaLbk3l/vOAMt+LN+dpt3mBBfzfpgZSmPRFSHERpnaWh+di\n1Gle2RJOxiRhIfyU3cOKrtIAIkIoxoT34QNwnWaxKM8nmFZhULGyRqcmktjiwiuS\nrS+Sj/iOZ4B5La/WGsAFQPN5HbKQ1RTuPA7WrTMc2Iq1q55b/KW3ajRkJ5gSjcev\naTCQfyONJX7ZXFrWv3qtln/Hl82n/1bGC9hDxSVuPikK/1pPfydiY0hARZIyl1iI\n6GZKvzQLAgMBAAECggEASZwdys3l4Mo2PfMBl5V5e7npVJlK+bNobuFwzsOfA8L8\njDtS1eOF3EMqj0fLZ3mZlnGBcwK2V+iWkyGcbYUDBUWzpf03nXS0BAc68qJ1KbUg\nv5yFxhhwz4ZIY5EmW7HkkGAyfLb60I07khjR5xPGhg5duHM94uawQzuN0bqJ1GWX\nvgV7GqgmXZcOXvWLNzfiLCfiHSaXa21pRjzBWzccDIgEC+gEcDk5Gdcbqbd1NA81\nBg7q3vJV9Mi6FkH0o3wBMs17LzzK/cY3k5fbGtgHu7ILR6NPlxIDjZWMj5SCBJqe\nPiYqUhQBn45WQ5xTTRhpXDC6M3VER8R9wBWNcEVRYQKBgQDK8pMptbGBOhD3214g\nWyniDDx3vTZJTf6f5k6TZzSVQMpQOYmFf+W0gbVEgyYHTQ4ZDTveOL2LmHuIOuWa\npyOFBYFN3xwKntRe595epwdKBpXCmBI14Y3zqze/uDAvF6Js0fXRy2pQ+GBtyc1h\n1MjQGDTGao2GJVFlxE/oevJXXQKBgQDCd3fb44m/p5x4xjklZNy+y590H6DqqxMo\nSxjg49nnrL4BhPNBqsCigphNeB46CylPiztIKbkpVyZFihaGS9TeNaJ+rjZN+qsQ\nq+2GuQsvVItsl0zEwy2UO6kuCU8xtvjab52pmO3LwmhvBkVRxYWP5bwNPNYwI1Kq\nYLHn0peKhwKBgCaCqVI83BX9gsLFqbLSGbx/PeoqyWZXmn2VIkvuRZgc10cp4+Kl\nRl1eT5tUl57DDG3MiRO+CJm4sZhENNWH6cGQLd0s/RE22m236gZkA4oUfc6TNMFs\nr5cRYl7LALmu7m9f2BmbU+1RdFrg9EwgKIr0TO9pwLk3055QBinDSsExAoGAV2/W\nAZVmSzk2vosKCMk4A8WUVWcfOERhYb2aWwu331YpPI+lvIHlCWzExBhdJuX71hsZ\nNZIlAfSAbcXv6MRR2vOss17rZdZuchmLvAaZg9d0tQe2acYESWEl6WAgLo9Bhx2m\neyoayYII6Nqd8m1oZ1H5Ys5W0+Ad/CNr+nsSziMCgYB6wFz9zLZmrLu9ZCVaMH7k\novohns6Z/Fu+GpaIkVDHygZwJfRNIwk+OrspCnpVw12zyqk+PfhdilsruaP/rprS\nv16sbbO72kot+m5O+ASxrpJcqExYfO9PA7n/bNxXp4K1ntrKK647AjJ4A1ZHNlx4\ni91iU6K9OUhw31W+WXB+dQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "liscence-plate-tracker@licsenceplatetracker.iam.gserviceaccount.com",
+  "client_id": "114387379631098280257",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/liscence-plate-tracker%40licsenceplatetracker.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
