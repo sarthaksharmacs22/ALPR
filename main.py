@@ -145,8 +145,8 @@ import cv2
 import time
 import os
 from datetime import datetime
-from plate_recognition5 import PlateRecognizer
-from google_sheets import GoogleSheetHandler
+from plate_recognition6 import PlateRecognizer
+from google_sheets2 import GoogleSheetHandler
 from config import CAMERA, APP
 
 def main():

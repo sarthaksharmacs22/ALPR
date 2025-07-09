@@ -1,0 +1,15 @@
+path: .  # Make sure this line is present and correct, with a dot
+train: C:/Users/sarth/OneDrive/Desktop/license_plate_tracker/roboflow_lp/train/images
+val: C:/Users/sarth/OneDrive/Desktop/license_plate_tracker/roboflow_lp/valid/images
+test: C:/Users/sarth/OneDrive/Desktop/license_plate_tracker/roboflow_lp/test/images
+
+nc: 1
+names: ['License_Plate']
+
+
+roboflow:
+  workspace: roboflow-universe-projects
+  project: license-plate-recognition-rxg4e
+  version: 11
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/11

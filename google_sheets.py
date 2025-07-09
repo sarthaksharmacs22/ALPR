@@ -104,6 +104,13 @@ class GoogleSheetHandler:
 
 
 
+
+
+
+
+
+
+
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
@@ -115,7 +122,7 @@ SCOPE = [
     "https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive"
 ]
-CREDS_FILE = "platetrackerfullaccess-8e6fbccc7a40.json"
+CREDS_FILE = "platetrackerfullaccess-2503a6ec83d7.json"
 DEFAULT_ENTRY_POINT = "Main Gate"
 
 class GoogleSheetHandler:
