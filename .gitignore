@@ -1,0 +1,14 @@
+# Ignore sensitive credentials
+*.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model weights and training output
+*.pt
+runs/
+captures/
+
+google_sheets.py
+google_sheets2.py
